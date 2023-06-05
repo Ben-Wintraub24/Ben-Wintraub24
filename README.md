@@ -22,6 +22,7 @@ Hello! My name is Ben and I am a current high school student.
 **Other facts:**
 - Rower 🚣
 - Ameteur Chemist 👨‍🔬
+- Disappointed Ferrari F1 fan
 - Recovered Factorio addict
 
 
