@@ -1,16 +1,14 @@
-### Hi there 👋
+Hello! My name is Ben and I am a current high school student.
+- Snek language 🐍
+- Wannabe gopher
+- Sublime Text
 
-<!--
-**Ben-Wintraub24/Ben-Wintraub24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recovered Factorio addict
 
-Here are some ideas to get you started:
+**Goals:**
+- Javascript (Svelte)
+- Haskell
+- Neovim
+- Stop using a trackpad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Who is .DS_store and why do they keep following me?
