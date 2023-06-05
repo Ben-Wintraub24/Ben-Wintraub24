@@ -10,14 +10,15 @@ Hello! My name is Ben and I am a current high school student.
 - NLP
 - Diffusion
 - Open Source Software
-- Cryptography/Cybersecurity
+- Cryptography
+- Cybersecurity
 - Fractals
 
-**Goals:**
+**Coding Goals:**
 - Haskell
 - Javascript (Svelte)
 - Mojo
-- Neovim
+- Neovim w/ NvChad
 
 **Other facts:**
 - Rower 🚣
