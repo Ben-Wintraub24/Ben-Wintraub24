@@ -1,14 +1,29 @@
 Hello! My name is Ben and I am a current high school student.
+
+# Info about me
+**Programming:**
 - Snek language 🐍
 - Wannabe gopher
 - Sublime Text
 
-Recovered Factorio addict
+**Interests:**
+- NLP
+- Diffusion
+- Open Source Software
+- Cryptography
+- Cybersecurity
+- Fractals
 
 **Goals:**
-- Javascript (Svelte)
 - Haskell
+- Javascript (Svelte)
+- Mojo
 - Neovim
-- Stop using a trackpad
+
+**Other facts:**
+- Rower 🚣
+- Ameteur Chemist 👨‍🔬
+- Recovered Factorio addict
+
 
 Who is .DS_store and why do they keep following me?
