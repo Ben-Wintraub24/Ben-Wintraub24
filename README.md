@@ -10,8 +10,7 @@ Hello! My name is Ben and I am a current high school student.
 - NLP
 - Diffusion
 - Open Source Software
-- Cryptography
-- Cybersecurity
+- Cryptography/Cybersecurity
 - Fractals
 
 **Goals:**
@@ -24,6 +23,8 @@ Hello! My name is Ben and I am a current high school student.
 - Rower 🚣
 - Ameteur Chemist 👨‍🔬
 - Recovered Factorio addict
+
+
 
 
 Who is .DS_store and why do they keep following me?
