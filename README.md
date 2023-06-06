@@ -1,5 +1,5 @@
 ### Hello! 
-My name is Ben and I am a student, AI enthusiast, and 1x engineer.
+My name is Ben and I am a current highschool student.
 
 ### Info about me:
 **Languages and Tools:**
