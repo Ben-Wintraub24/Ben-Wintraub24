@@ -8,18 +8,18 @@ My name is Ben and I am a current highschool student.
 - <code><img height="20" src="https://insmac.org/uploads/posts/2017-06/1497195101_sublime-text.png"></code>Sublime Text
 
 **Interests:**
-- NLP
+- Open Source LLMs
+- RAG/Embeddings
 - Diffusion
-- Open Source Software
 - Cryptography
-- Cybersecurity
 - Fractals
 
 **Coding Goals:**
-- Haskell
-- Javascript (Astro/Svelte)
+- </> htmx
+- Neovim w/ Kickstart.nvim
 - Mojo
-- Neovim w/ NvChad
+- OCaml
+- Javascript (Svelte)
 
 **Other facts:**
 - Rower 🚣
