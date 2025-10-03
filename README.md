@@ -1,5 +1,5 @@
 ### Hello! 
-My name is Ben and I am a current highschool student.
+My name is Ben and I am a sophomore at Rose-Hulman.
 
 ### Info about me:
 **Languages and Tools:**
@@ -15,11 +15,10 @@ My name is Ben and I am a current highschool student.
 - Fractals
 
 **Coding Goals:**
-- </> htmx
+- alpine.js
 - Neovim w/ Kickstart.nvim
 - Mojo
 - OCaml
-- Javascript (Svelte)
 
 **Other facts:**
 - Rower 🚣
