@@ -17,7 +17,7 @@ My name is Ben and I am a sophomore at Rose-Hulman.
 **Coding Goals:**
 - alpine.js
 - Neovim w/ Kickstart.nvim
-- Mojo
+- Elixir
 - OCaml
 
 **Other facts:**
